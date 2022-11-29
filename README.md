@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm ZhouYu</h1>
 
 
-- 🌱 I’m currently learning **OS**
+- 🌱 I’m working on [open-mongodb-trigger](https://github.com/Joeyscat/open-mongodb-trigger)
 
 
 
